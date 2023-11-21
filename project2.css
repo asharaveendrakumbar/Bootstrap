@@ -1,0 +1,28 @@
+.carousel{
+    height: 650px;
+    width: 100%;
+}
+.d-block{
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.cardbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.card{
+    margin: 10px;
+}
+.card-img-top{
+    height: 250px;
+    width: 350px;
+}
